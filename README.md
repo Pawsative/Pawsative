@@ -1,4 +1,7 @@
 <a href="https://alps.gg"><img src="https://i.imgur.com/VldLEKo.png"></a>
+
+I'm a former <a href ="https://gangwarsrp.com/forums">GangWarsRP</a> developer.
+
 <br/>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawsative&hide_border=true&theme=dracula"/>
 <br/>
